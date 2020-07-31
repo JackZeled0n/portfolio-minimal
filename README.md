@@ -18,12 +18,4 @@ It is fully responsive.
 <img src="./README_DOCS/md.JPG" width="500px">
 
 ### Mobile
-<img src="./README_DOCS/sm.JPG" 
-  width="182px" >
-
-## Data for the Portfolio
-You don't need to surf through HTML docs and update the data. All the data needed for your portfolio must be updated in `data.js`. (_Right now just for functionality I provided my links. You can change it_)
-
-<img src="./README_DOCS/Data.JPG">
-
----
+<img src="./README_DOCS/sm.JPG" width="182px" >
