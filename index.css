@@ -5,7 +5,7 @@
   }
 
   .main-image {
-    width: 80%;
+    width: 70%;
   }
 
   .child {
@@ -22,4 +22,27 @@
     top: 50vh;
     transform: translateY(-50%);
   }
+
+  .float{
+    position:fixed;
+    width:25%;
+    height:25%;
+    bottom:5vh;
+    right:0px;
+    color:#FFF;
+    text-align:center;
+  }
+}
+
+.bg-image {
+  background:
+  linear-gradient(
+      rgba(0, 0, 0, 0.50), 
+      rgba(0, 0, 0, 0.50)
+    ), url("bg.jpg");
+  height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
 }
