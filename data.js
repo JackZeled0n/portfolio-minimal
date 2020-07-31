@@ -1,7 +1,7 @@
 const main = {
   name: 'Jake Ruiz Zeledón',
   mail: '',
-  img: 'jake.svg',
+  img: 'jake.png',
   role: ['FrontEnd Developer'],
   // Refer https://ionicons.com/ and put the icon name inside iconName key
   connects: [
