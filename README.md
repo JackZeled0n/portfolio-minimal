@@ -1,4 +1,4 @@
-# portfolio-minimal [(Demo)](https://sivanesh-s.github.io/portfolio-minimal/)
+# portfolio-minimal [(Demo)](https://jackzeled0n.github.io/portfolio-minimal/)
 This is for developers who think
 
 **"My work and code speak more than a Portfolio"**
